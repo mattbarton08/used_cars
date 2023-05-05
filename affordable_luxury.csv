@@ -1,0 +1,8 @@
+manufacturer,model,year,mileage,engine,transmission,drivetrain,fuel_type,mpg,exterior_color,interior_color,accidents_or_damage,one_owner,personal_use_only,seller_name,seller_rating,driver_rating,driver_reviews_num,price_drop,price
+INFINITI,Q50 3.0t LUXE,2021,1,3.0L V6 24V GDI DOHC Twin Turbo,7-Speed Automatic,Rear-wheel Drive,Gasoline,20-29,Gray,Black,1,1,0,AE of Miami,4.6,4.9,9,1500,4950
+BMW,228 Gran Coupe 228i sDrive Gran Coupe,2022,6196,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Front-wheel Drive,Gasoline,24-34,Blue,Orange,1,1,1,AE of Miami,4.6,,0,1000,10500
+BMW,330 i,2020,61080,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Rear-wheel Drive,Gasoline,26-36,Gray,Black,1,0,0,AE of Miami,4.6,4.6,26,2500,13450
+Mercedes-Benz,GLB 250 Base 4MATIC,2021,35987,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic with Auto-Shift,All-wheel Drive,Gasoline,23-30,Red,Macchiato Beige,1,1,1,AE of Miami,4.6,4.3,13,3500,15450
+INFINITI,Q50 3.0t PURE,2021,3823,3.0L V6 24V GDI DOHC Twin Turbo,7-Speed Automatic,All-wheel Drive,Gasoline,19-27,Graphite Shadow,Graphite,1,1,1,Sawmill Auto Sales,3.9,4.9,9,,16900
+INFINITI,QX60 Pure,2020,58992,3.5L V6 24V GDI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,20-27,Hermosa Blue,Graphite,1,0,0,Auto Boutique,4.8,4.8,39,1000,19500
+BMW,X1 sDrive28i,2020,47650,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Front-wheel Drive,Gasoline,24-33,Jet Black,Black,0,1,0,NY Luxury Motors,3.9,4.9,14,505,19900
