@@ -1,0 +1,108 @@
+Model,Type,Speed,Mileage,Price,Brand,Title_status
+Toyota Camry,Petrol,200 kmph,30000 miles,$25000,Toyota,Clean vehicle
+Honda Civic,Petrol,180 kmph,20000 miles,$20000,Honda,Clean vehicle
+Ford Mustang,Petrol,160 kmph,10000 miles,$30000,Ford,Clean vehicle
+Tesla Model 3,Electric,150 kmph,5000 miles,$40000,Tesla,Clean vehicle
+Chevrolet Bolt,Electric,120 kmph,10000 miles,$30000,Chevrolet,Clean vehicle
+Nissan Leaf,Electric,100 kmph,5000 miles,$25000,Nissan,Clean vehicle
+Volkswagen Jetta,Diesel,180 kmph,30000 miles,$25000,Volkswagen,Clean vehicle
+Mercedes-Benz C-Class,Petrol,200 kmph,20000 miles,$50000,Mercedes-Benz,Clean vehicle
+BMW 3 Series,Petrol,180 kmph,10000 miles,$40000,BMW,Clean vehicle
+Audi A4,Petrol,160 kmph,5000 miles,$45000,Audi,Clean vehicle
+Toyota Corolla,Petrol,190 kmph,35000 miles,$22000,Toyota,Clean vehicle
+Honda Accord,Petrol,170 kmph,25000 miles,$25000,Honda,Clean vehicle
+Ford Focus,Petrol,150 kmph,15000 miles,$27000,Ford,Clean vehicle
+Tesla Model Y,Electric,160 kmph,10000 miles,$50000,Tesla,Clean vehicle
+Chevrolet Bolt EV,Electric,130 kmph,15000 miles,$35000,Chevrolet,Clean vehicle
+Nissan Leaf Plus,Electric,120 kmph,20000 miles,$30000,Nissan,Clean vehicle
+Volkswagen Golf,Petrol,170 kmph,35000 miles,$25000,Volkswagen,Clean vehicle
+Mercedes-Benz A-Class,Petrol,190 kmph,25000 miles,$35000,Mercedes-Benz,Clean vehicle
+BMW 2 Series,Petrol,180 kmph,15000 miles,$32000,BMW,Clean vehicle
+Audi A3,Petrol,170 kmph,10000 miles,$37000,Audi,Clean vehicle
+Toyota Prius,Hybrid,130 kmph,40000 miles,$27000,Toyota,Clean vehicle
+Honda Insight,Hybrid,120 kmph,35000 miles,$25000,Honda,Clean vehicle
+Ford Fusion Hybrid,Hybrid,110 kmph,30000 miles,$28000,Ford,Clean vehicle
+Tesla Model S,Electric,200 kmph,5000 miles,$70000,Tesla,Clean vehicle
+Chevrolet Volt,Hybrid,100 kmph,25000 miles,$32000,Chevrolet,Clean vehicle
+Nissan Altima Hybrid,Hybrid,100 kmph,30000 miles,$27000,Nissan,Clean vehicle
+Volkswagen Jetta Hybrid,Hybrid,110 kmph,40000 miles,$27000,Volkswagen,Clean vehicle
+Mercedes-Benz GLE 550e,Hybrid,170 kmph,25000 miles,$60000,Mercedes-Benz,Clean vehicle
+Hyundai Ioniq 5,Electric,200 kmph,30000 miles,$40000,Hyundai,Clean vehicle
+Kia EV6,Electric,220 kmph,25000 miles,$45000,Kia,Clean vehicle
+Ford Mustang Mach-E,Electric,240 kmph,15000 miles,$50000,Ford,Clean vehicle
+Chevrolet Bolt EUV,Electric,200 kmph,10000 miles,$35000,Chevrolet,Clean vehicle
+Volkswagen ID.4,Electric,180 kmph,5000 miles,$30000,Volkswagen,Clean vehicle
+Mercedes-Benz EQS,Electric,250 kmph,20000 miles,$100000,Mercedes-Benz,Clean vehicle
+BMW iX,Electric,230 kmph,10000 miles,$80000,BMW,Clean vehicle
+Audi e-tron GT,Electric,210 kmph,5000 miles,$75000,Audi,Clean vehicle
+Tesla Model S Plaid,Electric,320 kmph,5000 miles,$120000,Tesla,Clean vehicle
+Lucid Air,Electric,270 kmph,10000 miles,$100000,Lucid Motors,Clean vehicle
+Rivian R1T,Electric,200 kmph,15000 miles,$70000,Rivian,Clean vehicle
+Cadillac Lyriq,Electric,200 kmph,20000 miles,$60000,Cadillac,Clean vehicle
+Genesis GV60,Electric,200 kmph,25000 miles,$55000,Genesis,Clean vehicle
+Polestar 2,Electric,200 kmph,30000 miles,$45000,Polestar,Clean vehicle
+Tesla Model S Long Range,Electric,267 kmph,15000 miles,$99900,Tesla,Clean vehicle
+Tesla Model 3 Standard Range Plus,Electric,200 kmph,10000 miles,$46990,Tesla,Clean vehicle
+Tesla Model 3 Long Range,Electric,267 kmph,5000 miles,$54990,Tesla,Clean vehicle
+Tesla Model Y Long Range,Electric,233 kmph,10000 miles,$62990,Tesla,Clean vehicle
+Tesla Model Y Performance,Electric,250 kmph,5000 miles,$69990,Tesla,Clean vehicle
+Ford F-150 Lightning,Electric,190 kmph,20000 miles,$49974,Ford,Clean vehicle
+Chevrolet Silverado EV,Electric,200 kmph,15000 miles,$39950,Chevrolet,Clean vehicle
+GMC Hummer EV,Electric,200 kmph,10000 miles,$89990,GMC,Clean vehicle
+Volvo XC40 Recharge,Plug-in Hybrid,180 kmph,20000 miles,$51600,Volvo,Clean vehicle
+Volvo XC60 Recharge,Plug-in Hybrid,200 kmph,15000 miles,$59900,Volvo,Clean vehicle
+Volvo S60 Recharge,Plug-in Hybrid,200 kmph,10000 miles,$54900,Volvo,Clean vehicle
+Volvo V60 Recharge,Plug-in Hybrid,200 kmph,5000 miles,$56900,Volvo,Clean vehicle
+Porsche Taycan,Electric,260 kmph,10000 miles,$103000,Porsche,Clean vehicle
+Mercedes-Benz EQE,Electric,243 kmph,5000 miles,$88000,Mercedes-Benz,Clean vehicle
+Toyota Camry XSE,Petrol,200 kmph,30000 miles,$30000,Toyota,Clean vehicle
+Honda Accord Touring,Petrol,220 kmph,25000 miles,$32000,Honda,Clean vehicle
+Chevrolet Malibu Premier,Petrol,240 kmph,15000 miles,$34000,Chevrolet,Clean vehicle
+Nissan Altima Platinum,Petrol,200 kmph,10000 miles,$33000,Nissan,Clean vehicle
+Ford Fusion Titanium,Petrol,220 kmph,5000 miles,$35000,Ford,Clean vehicle
+Hyundai Elantra Limited,Hybrid,180 kmph,20000 miles,$36000,Hyundai,Clean vehicle
+Kia Forte GT Line,Hybrid,200 kmph,15000 miles,$38000,Kia,Clean vehicle
+Honda Civic Touring,Hybrid,220 kmph,10000 miles,$39000,Honda,Clean vehicle
+Toyota Corolla XSE,Hybrid,200 kmph,5000 miles,$37000,Toyota,Clean vehicle
+Acura TLX,Petrol,200 kmph,30000 miles,$30000,Acura,Clean vehicle
+Chrysler 300,Petrol,220 kmph,25000 miles,$32000,Chrysler,Clean vehicle
+Dodge Charger,Petrol,240 kmph,15000 miles,$34000,Dodge,Clean vehicle
+Jeep Grand Cherokee,Petrol,200 kmph,10000 miles,$33000,Jeep,Clean vehicle
+Mazda6,Petrol,220 kmph,5000 miles,$35000,Mazda,Clean vehicle
+Subaru Legacy,Hybrid,180 kmph,20000 miles,$36000,Subaru,Clean vehicle
+Mitsubishi Outlander,Hybrid,200 kmph,15000 miles,$38000,Mitsubishi,Clean vehicle
+Nissan Rogue,Hybrid,220 kmph,10000 miles,$39000,Nissan,Clean vehicle
+Toyota RAV4,Hybrid,200 kmph,5000 miles,$37000,Toyota,Clean vehicle
+Volkswagen Tiguan,Hybrid,220 kmph,20000 miles,$38000,Volkswagen,Clean vehicle
+Audi Q5,Electric,260 kmph,10000 miles,$73000,Audi,Clean vehicle
+BMW X3,Electric,250 kmph,5000 miles,$65350,BMW,Clean vehicle
+Mercedes-Benz GLC,Electric,230 kmph,10000 miles,$53200,Mercedes-Benz,Clean vehicle
+Porsche Macan,Electric,210 kmph,5000 miles,$64900,Porsche,Clean vehicle
+Volvo XC60,Electric,260 kmph,10000 miles,$61600,Volvo,Clean vehicle
+Acura TLX A-Spec,Petrol,200 kmph,30000 miles,$31000,Acura,Clean vehicle
+Chrysler 300S,Petrol,220 kmph,25000 miles,$33000,Chrysler,Clean vehicle
+Dodge Charger R/T,Petrol,240 kmph,15000 miles,$35000,Dodge,Clean vehicle
+Jeep Grand Cherokee Trackhawk,Petrol,200 kmph,10000 miles,$34000,Jeep,Clean vehicle
+Mazda6 Grand Touring,Petrol,220 kmph,5000 miles,$36000,Mazda,Clean vehicle
+Subaru Legacy Limited,Hybrid,180 kmph,20000 miles,$37000,Subaru,Clean vehicle
+Mitsubishi Outlander GT,Hybrid,200 kmph,15000 miles,$39000,Mitsubishi,Clean vehicle
+Nissan Rogue Platinum,Hybrid,220 kmph,10000 miles,$40000,Nissan,Clean vehicle
+Toyota RAV4 Prime,Hybrid,200 kmph,5000 miles,$41000,Toyota,Clean vehicle
+Volkswagen Tiguan R-Line,Hybrid,220 kmph,20000 miles,$42000,Volkswagen,Clean vehicle
+Acura TLX A-Spec,Petrol,200 kmph,30000 miles,$31000,Acura,Clean vehicle
+Chrysler 300S,Petrol,220 kmph,25000 miles,$33000,Chrysler,Clean vehicle
+Dodge Charger R/T,Petrol,240 kmph,15000 miles,$35000,Dodge,Clean vehicle
+Jeep Grand Cherokee Trackhawk,Petrol,200 kmph,10000 miles,$34000,Jeep,Clean vehicle
+Mazda6 Grand Touring,Petrol,220 kmph,5000 miles,$36000,Mazda,Clean vehicle
+Subaru Legacy Limited,Hybrid,180 kmph,20000 miles,$37000,Subaru,Clean vehicle
+Mitsubishi Outlander GT,Hybrid,200 kmph,15000 miles,$39000,Mitsubishi,Clean vehicle
+Nissan Rogue Platinum,Hybrid,220 kmph,10000 miles,$40000,Nissan,Clean vehicle
+Toyota RAV4 Prime,Hybrid,200 kmph,5000 miles,$41000,Toyota,Clean vehicle
+Volkswagen Tiguan R-Line,Hybrid,220 kmph,20000 miles,$42000,Volkswagen,Clean vehicle
+Civic,Petrol,190 kmph,27000 miles,$23000,Honda,Clean vehicle
+Accord,Petrol,220 kmph,35000 miles,$28000,Honda,Clean vehicle
+CR-V,Petrol,200 kmph,32000 miles,$26000,Honda,Clean vehicle
+HR-V,Petrol,180 kmph,29000 miles,$24000,Honda,Clean vehicle
+Odyssey,Petrol,210 kmph,30000 miles,$25000,Honda,Clean vehicle
+Pilot,Petrol,230 kmph,33000 miles,$30000,Honda,Clean vehicle
+Ridgeline,Petrol,220 kmph,34000 miles,$29000,Honda,Clean vehicle
